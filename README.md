@@ -50,10 +50,10 @@ In this part we will use the weather data from Part 1 to plan future vacations. 
 
 ## Outpu Images
 
-![Fig1](WeatherPY/output_data/Fig1.png)
-![Fig2](WeatherPY/output_data/Fig2.png)
-![Fig3](WeatherPY/output_data/Fig3.png)
-![Fig3](WeatherPY/output_data/Fig4.png)
+![Fig1](/WeatherPy/output_data/Fig1.png)
+![Fig2](/WeatherPy/output_data/Fig2.png)
+![Fig3](/WeatherPy/output_data/Fig3.png)
+![Fig3](/WeatherPy/output_data/Fig4.png)
 
 ## Questions
 
